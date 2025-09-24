@@ -20,12 +20,12 @@ This system simulates a rescue animal intake and tracking service. It demonstrat
 - Binary Search Tree implementation for efficient data management
 - Input validation and error handling for robust user experience
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Language: C++17
 - Libraries: `<iostream>`, `<string>`, `<limits>`, `<ctime>`, `<cctype>`
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
