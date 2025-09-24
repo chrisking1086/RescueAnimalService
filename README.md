@@ -80,5 +80,3 @@ This project showcases a strong mix of technical and professional skills relevan
   Handling edge cases like duplicate IDs, empty trees, and invalid inputs.
 - **Communication & Presentation**  
   Code is structured for clarity and explanation—ideal for portfolio reviews and team collaboration.
-
-> This project reflects a disciplined, methodical approach to software development and highlights a successful transition from precision measurement to backend engineering.
